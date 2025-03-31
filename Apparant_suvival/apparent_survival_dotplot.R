@@ -30,10 +30,12 @@ fig <- ggplot(data=survival_data, aes(x=Species, y=Survival_Estimate)) +
   # Set Themes
   theme_light(base_size=16) +
   
-  # Centralize title
+  # remove title
   theme(plot.title=element_text(hjust=0.5), 
         legend.title=element_blank(),
         legend.position = "none") +
+
+  # Put x axis labels in italics
   theme(axis.text.x = element_text(face = "italic"))
 
 fig
