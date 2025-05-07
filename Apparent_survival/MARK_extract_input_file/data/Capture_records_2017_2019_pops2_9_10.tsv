@@ -1,0 +1,654 @@
+Date	Time	Location	Population	Lek	Species	Racap?	Band #	Color Band Combo	Age	Sex
+3/9/17	11:47	Chiriqui Grande	10	1	Vit	N	62	L_or/0 R_bw/a	D	M
+3/9/17	11:47	Chiriqui Grande	10	1	Vit	N	63	L_w/0 R_bw/a	D	M
+3/9/17	1:12	Chiriqui Grande	10	1	Vit	N	64	L_g/0 R_bw/a	U	F
+3/9/17	1:12	Chiriqui Grande	10	1	Vit	N	65	L_n/0 R_bw/a	D	M
+3/9/17	2:45	Chiriqui Grande	10	1	Vit	N	66	L_r/0 R_bw/a	D	M
+3/9/17	2:45	Chiriqui Grande	10	1	Vit	N	67	L_ltb/0 R_bw/a	U	G
+3/9/17	2:45	Chiriqui Grande	10	1	Vit	N	68	L_bk/0 R_r/a	J	M
+3/9/17	4:00	Chiriqui Grande	10	1	Vit	N	69	L_or/0 R_r/a	J	M
+3/9/17	4:00	Chiriqui Grande	10	1	Vit	N	70	L_w/0 R_r/a	U	G
+3/13/17	10:37	San San Drury	2	1	Can	N	84	L_g/g R_g/a	D	M
+3/13/17	11:26	San San Drury	2	1	Can	N	85	L_n/n R_n/a	D	M
+3/13/17	11:26	San San Drury	2	1	Can	N	86	L_bw/bw R_bw/a	D	M
+3/13/17	1:11	San San Drury	2	1	Can	N	87	L_r/r R_r/a	D	M
+3/13/17	2:02	San San Drury	2	1	Can	N	88	L_ltb/ltb R_ltb/a	D	M
+3/13/17	3:02	San San Drury	2	1	Can	N	89	L_or/or R_bk/a	D	M
+3/13/17	3:02	San San Drury	2	1	Can	N	90	L_w/w R_bk/a	D	M
+3/15/17	11:23	Chiriqui Grande	10	2	Vit	N	91	L_g/g R_bk/a	D	M
+3/15/17	11:39	Chiriqui Grande	10	2	Vit	N	92	L_n/n R_bk/a	D	M
+3/15/17	1:39	Chiriqui Grande	10	2	Vit	N	93	L_bw/bw R_bk/a	U	G
+3/16/17	11:34	Chiriqui Grande	10	2	Vit	N	94	L_r/r R_bk/a	D	M
+3/17/17	9:57	Palma Real	9	1	Hyb	N	95	L_ltb/ltb R_bk/a	J	M
+3/17/17	9:57	Palma Real	9	1	Hyb	N	96	L_bk/bk R_or/a	D	M
+3/17/17	12:07	Palma Real	9	1	Hyb	N	97	L_w/w R_or/a	D	M
+3/17/17	12:53	Palma Real	9	1	Hyb	N	98	L_g/g R_or/a	D	M
+3/17/17	12:56	Palma Real	9	1	Hyb	N	99	L_n/n R_or/a	U	G
+3/17/17	1:53	Palma Real	9	1	Hyb	N	100	L_bw/bw R_or/a	U	G
+3/17/17	2:49	Palma Real	9	1	Hyb	N	101	L_r/r R_or/a	D	M
+3/17/17	2:50	Palma Real	9	1	Hyb	R	98	L_g/g R_or/a	D	M
+3/17/17	2:50	Palma Real	9	1	Hyb	R	99	L_n/n R_or/a	U	G
+3/17/17	3:50	Palma Real	9	1	Hyb	R	99	L_n/n R_or/a	U	G
+3/18/17	9:41	Palma Real	9	1	Hyb	N	102	L_ltb/ltb R_or/a	D	F
+3/18/17	2:54	Palma Real	9	1	Hyb	N	103	L_bk/bk R_w/a	U	G
+3/19/17	9:34	Palma Real	9	1	Hyb	R	99	L_n/n R_or/a	U	G
+3/19/17	10:24	Palma Real	9	1	Hyb	R	95	L_ltb/ltb R_bk/a	J	M
+3/20/17	10:45	Chiriqui Grande	10	3	Vit	N	104	L_or/or R_w/a	D	M
+3/20/17	10:45	Chiriqui Grande	10	3	Vit	N	105	L_g/g R_w/a	D	M
+3/20/17	10:45	Chiriqui Grande	10	3	Vit	N	106	L_n/n R_w/a	D	M
+3/20/17	11:52	Chiriqui Grande	10	3	Vit	N	107	L_bw/bw R_w/a	D	M
+3/20/17	1:41	Chiriqui Grande	10	3	Vit	N	108	L_r/r R_w/a	D	M
+3/20/17	2:36	Chiriqui Grande	10	3	Vit	N	109	L_bk/bk R_g/a	D	M
+3/20/17	3:35	Chiriqui Grande	10	3	Vit	N	110	L_or/or R_g/a	D	F
+3/22/17	11:14	Palma Real	9	1	Hyb	N	111	L_w/w R_g/a	D	M
+3/24/17	9:00	Palma Real	9	2	Hyb	N	112	L_n/n R_g/a	D	M
+3/24/17	9:16	Palma Real	9	2	Hyb	N	113	L_bw/bw R_g/a	D	M
+3/24/17	9:30	Palma Real	9	2	Hyb	N	114	L_r/r R_g/a	D	M
+3/24/17	9:30	Palma Real	9	2	Hyb	N	115	L_ltb/ltb R_g/a	D	M
+3/24/17	11:25	Palma Real	9	2	Hyb	N	116	L_bk/bk R_n/a	D	F
+3/24/17	11:25	Palma Real	9	2	Hyb	N	117	L_or/or R_n/a	D	M
+3/24/17	12:21	Palma Real	9	2	Hyb	N	118	L_w/w R_n/a	U	G
+3/24/17	12:50	Palma Real	9	2	Hyb	N	119	L_g/g R_n/a	J	M
+3/24/17	2:36	Palma Real	9	2	Hyb	N	120	L_bw/bw R_n/a	D	F
+3/24/17	2:36	Palma Real	9	2	Hyb	N	121	L_r/r R_n/a	U	G
+3/24/17	2:36	Palma Real	9	2	Hyb	N	122	L_ltb/ltb R_n/a	U	G
+3/24/17	2:30	Palma Real	9	2	Hyb	R	114	L_r/r R_g/a	D	M
+3/24/17	3:00	Palma Real	9	2	Hyb	R	114	L_r/r R_g/a	D	M
+3/30/17	11:08	San San Drury	2	1	Can	N	127	L_n/n R_bw/a	D	F
+3/30/17	11:08	San San Drury	2	1	Can	N	128	L_r/r R_bw/a	D	F
+3/30/17	11:08	San San Drury	2	1	Can	N	129	L_ltb/ltb R_bw/a	D	M
+3/30/17	11:08	San San Drury	2	1	Can	N	130	L_bk/bk R_r/a	D	M
+3/30/17	12:05	San San Drury	2	1	Can	N	131	L_or/or R_r/a	U	G
+3/30/17	12:56	San San Drury	2	1	Can	N	132	L_w/w R_r/a	D	F
+3/30/17	9:59	San San Drury	2	1	Can	R	88	L_ltb/ltb R_ltb/a	D	M
+3/30/17	2:50	San San Drury	2	1	Can	R	128	L_r/r R_bw/a	D	F
+3/31/17	3:00	Chiriqui Grande	10	3	Vit	N	133	L_g/g R_r/a	D	M
+3/31/17	11:01	Chiriqui Grande	10	3	Vit	R	106	L_n/n R_w/a	D	M
+3/31/17	1:00	Chiriqui Grande	10	3	Vit	R	104	L_or/or R_w/a	D	M
+4/1/17	9:15	Chiriqui Grande	10	1	Vit	N	134	L_bw/bw R_r/a	D	F
+4/1/17	2:26	Chiriqui Grande	10	1	Vit	N	135	L_ltb/ltb R_r/a	U	G
+4/1/17	10:26	Chiriqui Grande	10	1	Vit	R	64	L_g/0 R_bw/a	D	F
+4/1/17	10:26	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+4/1/17	10:26	Chiriqui Grande	10	1	Vit	R	68	L_bk/0 R_r/a	J	M
+4/1/17	11:30	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	J	M
+4/1/17	1:25	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+4/1/17	1:26	Chiriqui Grande	10	1	Vit	R	64	L_g/0 R_bw/a	D	F
+4/1/17	2:26	Chiriqui Grande	10	1	Vit	R	63	L_w/0 R_bw/a	D	M
+4/4/17	10:45	Chiriqui Grande	10	1	Vit	N	136	L_bk/bk R_ltb/a	J	M
+4/4/17	10:45	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	J	M
+4/4/17	10:45	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+4/4/17	10:45	Chiriqui Grande	10	1	Vit	R	70	L_w/0 R_r/a	J	M
+4/4/17	10:45	Chiriqui Grande	10	1	Vit	R	135	L_ltb/ltb R_r/a	U	G
+4/7/17	10:36	San San Drury	2	1	Can	N	138	L_w/w R_ltb/a	D	F
+4/7/17	10:36	San San Drury	2	1	Can	N	139	L_g/g R_ltb/a	D	F
+4/7/17	10:36	San San Drury	2	1	Can	R	89	L_or/or R_bk/a	D	M
+4/7/17	10:36	San San Drury	2	1	Can	R	128	L_r/r R_bw/a	D	F
+4/10/17	2:55	Chiriqui Grande	10	1	Vit	N	140	L_n/n R_ltb/a	D	F
+4/10/17	11:18	Chiriqui Grande	10	1	Vit	R	70	L_w/0 R_r/a	J	M
+4/10/17	11:18	Chiriqui Grande	10	1	Vit	R	68	L_bk/0 R_r/a	J	M
+4/12/17	9:33	San San Drury	2	1	Can	N	141	L_bw/bw R_ltb/a	D	F
+4/12/17	10:28	San San Drury	2	1	Can	N	142	L_r/r R_ltb/a	D	F
+4/12/17	2:28	San San Drury	2	1	Can	N	143	L_or/w R_bk/a	D	F
+4/12/17	3:13	San San Drury	2	1	Can	N	144	L_or/g R_bk/a	D	F
+4/12/17	11:18	San San Drury	2	1	Can	R	88	L_ltb/ltb R_ltb/a	D	M
+4/12/17	11:18	San San Drury	2	1	Can	R	128	L_r/r R_bw/a	D	F
+4/12/17	11:18	San San Drury	2	1	Can	R	85	L_n/n R_n/a	D	M
+4/19/17	9:37	San San Drury	2	1	Can	N	145	L_or/n R_bk/a	U	G
+4/19/17	10:42	San San Drury	2	1	Can	N	146	L_or/bw R_bk/a	D	F
+4/19/17	9:47	San San Drury	2	1	Can	R	132	L_w/w R_r/a	D	F
+4/19/17	10:42	San San Drury	2	1	Can	R	130	L_bk/bk R_r/a	D	M
+4/19/17	10:42	San San Drury	2	1	Can	R	84	L_g/g R_g/a	D	M
+4/20/17	1:00	Chiriqui Grande	10	3	Vit	R	107	L_bw/bw R_w/a	D	M
+4/26/17	10:23	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	J	M
+4/26/17	10:29	Chiriqui Grande	10	1	Vit	R	63	L_w/0 R_bw/a	D	M
+4/26/17	2:45	Chiriqui Grande	10	1	Vit	R	70	L_w/0 R_r/a	J	M
+4/28/17	11:58	San San Drury	2	1	Can	N	147	L_or/r R_bk/a	D	M
+4/28/17	1:45	San San Drury	2	1	Can	N	148	L_or/ltb R_bk/a	D	F
+4/28/17	12:56	San San Drury	2	1	Can	R	85	L_n/n R_n/a	D	M
+5/3/17	11:50	San San Drury	2	1	Can	N	149	L_bk/w R_or/a	U	G
+5/3/17	11:50	San San Drury	2	1	Can	N	150	L_bk/g R_or/a	U	G
+5/3/17	9:59	San San Drury	2	1	Can	R	139	L_g/g R_ltb/a	D	F
+5/3/17	11:00	San San Drury	2	1	Can	R	87	L_r/r R_r/a	D	M
+5/9/17	9:35	Chiriqui Grande	10	1	Vit	N	151	L_g/w R_w/a	J	M
+5/9/17	2:36	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+5/9/17	3:15	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	J	M
+5/12/17	9:18	San San Drury	2	1	Can	N	153	L_g/bw R_w/a	D	F
+5/12/17	1:09	San San Drury	2	1	Can	N	154	L_g/r R_w/a	U	G
+5/12/17	10:00	San San Drury	2	1	Can	R	86	L_bw/bw R_bw/a	D	M
+5/12/17	11:10	San San Drury	2	1	Can	R	138	L_w/w R_ltb/a	D	F
+5/17/17	8:45	San San Drury	2	1	Can	N	155	L_g/ltb R_w/a	D	F
+5/17/17	9:41	San San Drury	2	1	Can	N	156	L_w/n R_g/a	U	G
+5/17/17	9:41	San San Drury	2	1	Can	N	157	L_bw/w R_n/a	D	F
+5/17/17	9:41	San San Drury	2	1	Can	N	158	L_bw/r R_n/a	U	G
+5/19/17	10:34	Chiriqui Grande	10	1	Vit	R	63	L_w/0 R_bw/a	D	M
+5/19/17	12:39	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	J	M
+5/24/17	2:35	Chiriqui Grande	10	3	Vit	N	163	L_ltb/w R_r/a	U	G
+5/24/17	2:35	Chiriqui Grande	10	3	Vit	R	108	L_r/r R_w/a	D	M
+5/26/17	2:20	Chiriqui Grande	10	1	Vit	N	164	L_ltb/r R_r/a	U	G
+5/26/17	9:35	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+5/26/17	10:15	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+5/26/17	10:15	Chiriqui Grande	10	1	Vit	R	63	L_w/0 R_bw/a	D	M
+5/26/17	12:10	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+5/26/17	1:24	Chiriqui Grande	10	1	Vit	R	70	L_r/0 R_w/a	J	M
+5/26/17	1:24	Chiriqui Grande	10	1	Vit	R	135	L_ltb/ltb R_r/a	J	M
+5/30/17	11:58	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	J	M
+5/30/17	11:58	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+5/30/17	3:00	Chiriqui Grande	10	1	Vit	R	70	L_r/0 R_w/a	U	G
+5/30/17	3:00	Chiriqui Grande	10	1	Vit	R	65	L_n/0 R_bw/a	D	M
+5/31/17	11:38	San San Drury	2	1	Can	N	165	L_r/w R_ltb/a	U	G
+5/31/17	1:40	San San Drury	2	1	Can	N	166	L_r/ltb R_ltb/a	D	F
+5/31/17	1:40	San San Drury	2	1	Can	N	167	L_0/0 R_y/a	U	G
+5/31/17	2:50	San San Drury	2	1	Can	N	168	L_y/a R_0/0	U	G
+5/31/17	9:50	San San Drury	2	1	Can	R	130	L_bk/bk R_r/a	D	M
+5/31/17	11:38	San San Drury	2	1	Can	R	156	L_w/n R_g/a	U	G
+6/1/17	10:00	Chiriqui Grande	10	3	Vit	N	169	L_y/0 R_ltb/0	U	G
+6/1/17	2:25	Chiriqui Grande	10	3	Vit	N	170	L_w/0 R_y/a	J	M
+6/1/17	2:25	Chiriqui Grande	10	3	Vit	N	171	L_ltb/0 R_y/a	U	G
+6/1/17	12:41	Chiriqui Grande	10	3	Vit	R	109	L_bk/bk R_g/a	D	M
+6/6/17	11:07	Chiriqui Grande	10	1	Vit	R	68	L_bk/0 R_r/a	U	G
+6/7/17	10:45	San San Drury	2	1	Can	N	173	L_r/0 R_y/a	U	G
+6/7/17	11:45	San San Drury	2	1	Can	N	174	L_n/0 R_y/a	J	M
+6/7/17	11:45	San San Drury	2	1	Can	R	153	L_g/bw R_w/a	U	G
+6/7/17	12:48	San San Drury	2	1	Can	R	146	L_or/bw R_bk/a	D	F
+6/7/17	1:43	San San Drury	2	1	Can	R	145	L_or/n R_bk/a	U	G
+6/8/17	10:00	Chiriqui Grande	10	3	Vit	N	175	L_bk/0 R_y/a	J	M
+6/8/17	10:00	Chiriqui Grande	10	3	Vit	N	176	L_or/0 R_y/a	U	G
+6/8/17	11:38	Chiriqui Grande	10	3	Vit	N	177	L_g/0 R_y/a	D	F
+6/8/17	2:30	Chiriqui Grande	10	3	Vit	R	169	L_y/0 R_ltb/a	D	F
+6/10/17	2:00	Chiriqui Grande	10	1	Vit	N	178	L_r/n R_y/a	D	F
+6/10/17	2:00	Chiriqui Grande	10	1	Vit	R	64	L_g/0 R_bw/a	D	F
+6/12/17	12:45	San San Drury	2	1	Can	N	179	L_r/or R_y/a	D	M
+6/12/17	1:53	San San Drury	2	1	Can	N	180	L_bk/r R_y/a	U	G
+6/13/17	9:54	Chiriqui Grande	10	3	Vit	N	181	L_bk/y R_y/a	U	G
+6/13/17	12:23	Chiriqui Grande	10	3	Vit	N	182	L_r/g R_y/a	U	G
+6/13/17	12:23	Chiriqui Grande	10	3	Vit	N	183	L_or/n R_y/a	D	F
+6/13/17	11:07	Chiriqui Grande	10	3	Vit	R	109	L_bk/bk R_g/a	D	M
+6/13/17	11:07	Chiriqui Grande	10	3	Vit	R	176	L_or/0 R_y/a	J	M
+6/17/17	11:31	San San Drury	2	1	Can	N	186	L_y/0 R_old_ltb/a	U	G
+6/17/17	12:41	San San Drury	2	1	Can	N	187	L_y/0 R_bk/a	U	G
+6/19/17	9:16	San San Drury	2	1	Can	N	188	L_r/y R_bk/a	U	G
+6/19/17	12:30	San San Drury	2	1	Can	R	89	L_or/or R_bk/a	D	M
+2/27/18	2:00	Palma Real	9	2	Hyb	N	196	L_or/a R_g/w	D	M
+2/27/18	2:30	Palma Real	9	2	Hyb	N	197	L_or/a R_g/n	U	G
+2/27/18	2:30	Palma Real	9	2	Hyb	N	198	L_or/a R_g/bw	J	M
+2/27/18	3:30	Palma Real	9	2	Hyb	N	199	L_or/a R_g/r	U	G
+2/27/18	4:00	Palma Real	9	2	Hyb	N	200	L_w/a R_n/bk	U	G
+2/27/18	11:15	Palma Real	9	2	Hyb	R	114	L_r/r R_g/a	D	M
+2/27/18	3:00	Palma Real	9	2	Hyb	R	113	L_bw/bw R_g/a	D	M
+3/3/18	12:15	San San Drury	2	1	Can	N	208	L_n/a R_r/bk	U	G
+3/3/18	2:15	San San Drury	2	1	Can	N	209	L_n/a R_r/or	U	G
+3/3/18	3:45	San San Drury	2	1	Can	N	210	L_n/a R_r/w	U	G
+3/6/18	4:00	San San Drury	2	1	Can	N	214	L_n/a R_r/r	U	G
+3/6/18	4:00	San San Drury	2	1	Can	N	215	L_n/a R_r/ltb	U	G
+3/6/18	4:00	San San Drury	2	1	Can	N	216	L_bw/a R_ltb/or	U	G
+3/6/18	10:00	San San Drury	2	1	Can	R	132	L_w/w R_r/a	D	F
+3/6/18	2:00	San San Drury	2	1	Can	R	165	L_r/w R_ltb/a	U	G
+3/6/18	3:00	San San Drury	2	1	Can	R	84	L_g/g R_g/a	D	M
+3/6/18	3:30	San San Drury	2	1	Can	R	147	L_or/r R_bk/a	D	M
+3/7/18	10:45	Chiriqui Grande	10	1	Vit	N	217	L_bw/a R_ltb/g	D	M
+3/7/18	11:45	Chiriqui Grande	10	1	Vit	N	218	L_bw/a R_ltb/n	U	G
+3/7/18	12:15	Chiriqui Grande	10	1	Vit	N	219	L_bw/a R_ltb/bw	J	M
+3/7/18	2:00	Chiriqui Grande	10	1	Vit	N	220	L_bw/a R_ltb/r	U	G
+3/7/18	12:45	Chiriqui Grande	10	1	Vit	R	70	L_w/o R_r/a	D	M
+3/7/18	2:30	Chiriqui Grande	10	1	Vit	R	64	L_g/o R_bw/a	D	F
+3/9/18	1:15	Chiriqui Grande	10	3	Vit	N	224	L_r/a R_bk/w	U	G
+3/9/18	2:45	Chiriqui Grande	10	3	Vit	N	225	L_r/a R_bk/g	U	G
+3/9/18	11:45	Chiriqui Grande	10	3	Vit	R	105	L_g/g R_w/a	D	M
+3/9/18	11:45	Chiriqui Grande	10	3	Vit	R	109	L_bk/bk R_g/a	D	M
+3/9/18	12:45	Chiriqui Grande	10	3	Vit	R	171	L_ltb/0 R_y/a	U	G
+3/9/18	2:15	Chiriqui Grande	10	3	Vit	R	106	L_n/n R_w/a	D	M
+3/9/18	3:15	Chiriqui Grande	10	3	Vit	R	108	L_r/r R_w/a	D	M
+3/13/18	3:45	Chiriqui Grande	10	1	Vit	N	230	L_ltb/a R_or/or	U	G
+3/13/18	10:45	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	D	M
+3/13/18	11:45	Chiriqui Grande	10	1	Vit	R	220	L_bw/a R_ltb/r	J	M
+3/13/18	2:15	Chiriqui Grande	10	1	Vit	R	219	L_bw/a R_ltb/bw	J	M
+3/13/18	3:15	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+3/14/18	9:30	Palma Real	9	2	Hyb	N	231	L_ltb/a R_or/g	D	M
+3/14/18	11:00	Palma Real	9	2	Hyb	N	232	L_ltb/a R_or/n	D	M
+3/14/18	12:30	Palma Real	9	2	Hyb	N	233	L_ltb/a R_or/r	U	G
+3/14/18	2:00	Palma Real	9	2	Hyb	N	234	L_ltb/a R_or/ltb	U	G
+3/14/18	2:00	Palma Real	9	2	Hyb	N	235	L_y/a R_g/bk	U	G
+3/14/18	2:30	Palma Real	9	2	Hyb	N	236	L_y/a R_g/or	J	M
+3/14/18	3:00	Palma Real	9	2	Hyb	N	237	L_y/a R_n/r	J	M
+3/14/18	10:30	Palma Real	9	2	Hyb	R	113	L_bw/bw R_g/a	D	M
+3/14/18	2:00	Palma Real	9	2	Hyb	R	200	L_w/a R_n/bk	U	G
+3/14/18	3:00	Palma Real	9	2	Hyb	R	197	L_or/a R_g/n	U	G
+3/15/18	12:15	San San Drury	2	1	Can	N	239	L_bk/a R_bk/bk	U	G
+3/15/18	1:45	San San Drury	2	1	Can	N	240	L_w/a R_w/w	U	G
+3/15/18	2:15	San San Drury	2	1	Can	N	241	L_or/a R_or/or	U	G
+3/15/18	3:45	San San Drury	2	1	Can	N	242	L_g/a R_g/g	J	M
+3/15/18	9:45	San San Drury	2	1	Can	R	87	L_r/r R_r/a	D	M
+3/15/18	10:15	San San Drury	2	1	Can	R	84	L_g/g R_g/a	D	M
+3/19/18	3:00	Chiriqui Grande	10	3	Vit	N	250	L_bk/a R_g/g	U	G
+3/19/18	10:00	Chiriqui Grande	10	3	Vit	R	108	L_r/r R_w/a	D	M
+3/19/18	11:00	Chiriqui Grande	10	3	Vit	R	224	L_r/a R_bk/w	J	M
+3/19/18	3:00	Chiriqui Grande	10	3	Vit	R	105	L_g/g R_w/a	D	M
+3/19/18	3:30	Chiriqui Grande	10	3	Vit	R	217	L_bw/a R_ltb/g	D	M
+3/20/18	9:45	Chiriqui Grande	10	1	Vit	N	251	L_bk/a R_n/g	D	M
+3/20/18	10:15	Chiriqui Grande	10	1	Vit	N	252	L_bk/a R_bw/g	U	G
+3/20/18	9:45	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+3/20/18	10:15	Chiriqui Grande	10	1	Vit	R	219	L_bw/a R_ltb/bw	J	M
+3/20/18	3:45	Chiriqui Grande	10	1	Vit	R	64	L_g/0 R_bw/a	D	F
+3/22/18	10:00	San San Drury	2	1	Can	N	255	L_or/a R_bk/n	D	M
+3/22/18	10:00	San San Drury	2	1	Can	R	144	L_or/g R_bk/a	U	G
+3/26/18	12:45	Chiriqui Grande	10	1	Vit	N	259	L_or/a R_n/n	U	G
+3/26/18	11:15	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	D	M
+3/26/18	1:45	Chiriqui Grande	10	1	Vit	R	230	L_or/or R_ltb/a	U	G
+3/27/18	10:30	Chiriqui Grande	10	3	Vit	N	260	L_or/a R_bw/n	U	G
+3/27/18	2:30	Chiriqui Grande	10	3	Vit	N	261	L_or/a R_r/n	J	M
+3/27/18	2:30	Chiriqui Grande	10	3	Vit	N	262	L_or/a R_ltb/n	D	F
+3/27/18	10:00	Chiriqui Grande	10	3	Vit	R	133	L_g/g R_r/a	D	M
+3/27/18	12:00	Chiriqui Grande	10	3	Vit	R	104	L_or/or R_w/a	D	M
+3/27/18	2:00	Chiriqui Grande	10	3	Vit	R	108	L_r/r R_w/a	D	M
+4/4/18	11:15	Palma Real	9	2	Hyb	N	263	L_w/a R_bk/bw	D	F
+4/4/18	10:45	Palma Real	9	2	Hyb	R	116	L_bk/bk R_n/a	D	F
+4/4/18	11:15	Palma Real	9	2	Hyb	R	113	L_bw/bw R_g/a	D	M
+4/4/18	1:45	Palma Real	9	2	Hyb	R	119	L_g/g R_n/a	D	M
+4/4/18	1:45	Palma Real	9	2	Hyb	R	116	L_bk/bk R_n/a	D	F
+4/5/18	12:30	San San Drury	2	1	Can	N	264	L_w/a R_or/bw	J	M
+4/5/18	2:00	San San Drury	2	1	Can	N	265	L_w/a R_g/bw	J	M
+4/5/18	2:30	San San Drury	2	1	Can	N	266	L_w/a R_w/bw	D	F
+4/5/18	2:30	San San Drury	2	1	Can	R	209	L_n/a R_r/or	D	F
+4/6/18	11:00	Chiriqui Grande	10	3	Vit	N	267	L_w/a R_n/bw	D	F
+4/6/18	11:00	Chiriqui Grande	10	3	Vit	N	268	L_w/a R_bw/bw	D	M
+4/6/18	3:00	Chiriqui Grande	10	3	Vit	N	269	L_w/a R_r/bw	U	G
+4/6/18	2:30	Chiriqui Grande	10	3	Vit	R	262	L_or/a R_ltb/n	D	F
+4/11/18	11:15	San San Drury	2	1	Can	N	270	L_g/a R_bk/r	D	F
+4/12/18	11:00	Chiriqui Grande	10	3	Vit	R	106	L_n/n R_w/a	D	M
+4/12/18	11:00	Chiriqui Grande	10	3	Vit	R	110	L_or/or R_g/a	D	F
+4/12/18	1:30	Chiriqui Grande	10	3	Vit	R	109	L_bk/bk R_g/a	D	M
+4/12/18	2:00	Chiriqui Grande	10	3	Vit	R	261	L_or/a R_r/n	J	M
+4/12/18	3:30	Chiriqui Grande	10	3	Vit	R	171	L_ltb/0 R_a/0	D	F
+4/13/18	10:00	Palma Real	9	2	Hyb	N	271	L_g/a R_or/r	D	F
+4/13/18	10:00	Palma Real	9	2	Hyb	N	272	L_g/a R_w/r	D	F
+4/13/18	1:00	Palma Real	9	2	Hyb	R	236	L_y/a R_g/or	J	M
+4/13/18	1:30	Palma Real	9	2	Hyb	R	198	L_or/a R_g/bw	J	M
+4/13/18	2:00	Palma Real	9	2	Hyb	R	115	L_ltb/ltb R_g/a	D	M
+4/13/18	2:30	Palma Real	9	2	Hyb	R	113	L_bw/bw R_g/a	D	M
+4/14/18	10:15	San San Drury	2	1	Can	N	273	L_g/a R_g/r	D	F
+4/16/18	12:00	Palma Real	9	2	Hyb	R	233	L_ltb/a R_or/r	D	F
+4/16/18	1:00	Palma Real	9	2	Hyb	R	114	L_r/r R_g/a	D	M
+4/18/18	2:00	Chiriqui Grande	10	1	Vit	R	251	L_bk/a R_n/g	D	M
+4/18/18	3:00	Chiriqui Grande	10	1	Vit	R	219	L_bw/a R_ltb/bw	J	M
+4/19/18	2:30	Palma Real	9	2	Hyb	N	276	L_g/a R_r/r	U	G
+4/19/18	1:30	Palma Real	9	2	Hyb	R	233	L_ltb/a R_or/r	D	F
+4/19/18	1:30	Palma Real	9	2	Hyb	R	114	L_r/r R_g/a	D	M
+4/19/18	2:30	Palma Real	9	2	Hyb	R	113	L_bw/bw R_g/a	D	M
+4/23/18	10:15	San San Drury	2	1	Can	N	277	L_bk/ltb R_n/a	B	G
+4/27/18	10:00	Chiriqui Grande	10	1	Vit	R	251	L_bk/a R_n/g	D	M
+4/27/18	11:15	Chiriqui Grande	10	1	Vit	R	63	L_w/0 R_bw/a	D	M
+4/27/18	2:30	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	D	M
+4/28/18	9:15	Palma Real	9	2	Hyb	N	278	L_n/a R_or/ltb	J	M
+4/28/18	10:15	Palma Real	9	2	Hyb	R	114	L_r/r R_g/a	D	M
+4/28/18	12:45	Palma Real	9	2	Hyb	R	119	L_g/g R_n/a	D	M
+4/28/18	2:45	Palma Real	9	2	Hyb	R	235	L_y/a R_g/bk	J	M
+5/4/18	10:00	Chiriqui Grande	10	1	Vit	N	279	L_n/a R_g/ltb	D	M
+5/4/18	12:00	Chiriqui Grande	10	1	Vit	N	280	L_n/a R_n/ltb	U	G
+5/4/18	9:30	Chiriqui Grande	10	1	Vit	R	251	L_bk/a R_n/g	D	M
+5/4/18	10:30	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+5/4/18	1:00	Chiriqui Grande	10	1	Vit	R	64	L_g/0 R_bw/a	D	F
+5/6/18	9:30	Palma Real	9	2	Hyb	N	281	n/a	B	U
+5/7/18	9:40	Palma Real	9	2	Hyb	N	281	L_n/a R_bw/ltb	B	U
+5/8/18	12:00	Palma Real	9	2	Hyb	N	282	L_n/a R_r/ltb	D	F
+5/8/18	3:00	Palma Real	9	2	Hyb	N	283	L_n/a R_ltb/ltb	D	F
+5/8/18	10:00	Palma Real	9	2	Hyb	R	232	L_ltb/a R_or/n	D	M
+5/15/18	11:45	San San Drury	2	1	Can	N	284	L_bw/a R_bk/bk	D	F
+5/15/18	11:45	San San Drury	2	1	Can	N	285	L_bw/a R_or/bk	D	M
+5/15/18	10:45	San San Drury	2	1	Can	R	270	L_g/a R_bk/r	D	F
+5/15/18	10:45	San San Drury	2	1	Can	R	264	L_w/a R_or/bw	J	M
+5/15/18	2:15	San San Drury	2	1	Can	R	265	L_w/a R_g/bw	J	M
+5/15/18	3:15	San San Drury	2	1	Can	R	127	L_n/n R_bw/a	D	F
+5/22/18	10:15	Palma Real	9	2	Hyb	N	287	L_bw/a R_g/bk	D	F
+5/22/18	2:15	Palma Real	9	2	Hyb	N	288	L_bw/a R_n/bk	U	G
+5/22/18	2:15	Palma Real	9	2	Hyb	N	289	L_bw/a R_bw/bk	U	G
+5/22/18	9:15	Palma Real	9	2	Hyb	R	115	L_ltb/ltb R_g/a	D	M
+5/22/18	10:15	Palma Real	9	2	Hyb	R	113	L_bw/bw R_g/a	D	M
+5/22/18	11:45	Palma Real	9	2	Hyb	R	233	L_ltb/a R_r/or	D	F
+5/22/18	2:15	Palma Real	9	2	Hyb	R	236	L_y/a R_g/or	J	M
+5/23/18	1:15	Chiriqui Grande	10	3	Vit	R	269	L_w/a R_r/bw	J	M
+5/28/18	9:45	Palma Real	9	2	Hyb	N	295	L_r/a R_g/w	D	M
+5/28/18	10:15	Palma Real	9	2	Hyb	N	296	L_r/a R_n/w	D	F
+5/28/18	12:45	Palma Real	9	2	Hyb	N	297	L_r/a R_bw/w	J	M
+5/28/18	1:15	Palma Real	9	2	Hyb	R	200	L_w/a R_n/bk	J	M
+5/28/18	2:45	Palma Real	9	2	Hyb	R	121	L_r/r R_n/a	D	M
+5/29/18	9:45	Chiriqui Grande	10	1	Vit	R	280	L_n/a R_n/ltb	U	G
+5/29/18	9:45	Chiriqui Grande	10	1	Vit	R	251	L_bk/a R_n/g	D	M
+5/29/18	10:15	Chiriqui Grande	10	1	Vit	R	219	L_bw/a R_ltb/bw	J	M
+5/29/18	11:45	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	D	M
+5/29/18	2:45	Chiriqui Grande	10	1	Vit	R	251	L_bk/a R_n/g	D	M
+5/30/18	10:30	San San Drury	2	1	Can	N	298	L_r/a R_r/w	J	M
+5/30/18	1:00	San San Drury	2	1	Can	N	299	L_r/a R_ltb/w	U	G
+5/30/18	3:00	San San Drury	2	1	Can	N	300	L_ltb/a R_bk/or	J	M
+5/30/18	3:00	San San Drury	2	1	Can	N	301	L_ltb/a R_or/or	U	G
+5/30/18	12:30	San San Drury	2	1	Can	R	209	L_n/a R_r/or	D	F
+5/30/18	1:30	San San Drury	2	1	Can	R	265	L_w/a R_g/bw	J	M
+5/30/18	1:30	San San Drury	2	1	Can	R	255	L_or/a R_bk/n	D	M
+5/30/18	2:00	San San Drury	2	1	Can	R	273	L_g/a R_g/r	U	G
+5/30/18	2:30	San San Drury	2	1	Can	R	153	L_g/bw R_w/a	D	F
+6/4/18	4:00	Chiriqui Grande	10	3	Vit	N	302	L_ltb/a R_w/or	U	G
+6/4/18	1:30	Chiriqui Grande	10	3	Vit	R	110	L_or/or R_g/a	D	F
+6/4/18	2:00	Chiriqui Grande	10	3	Vit	R	261	L_or/a R_r/n	J	M
+6/4/18	4:00	Chiriqui Grande	10	3	Vit	R	104	L_or/or R_w/a	D	M
+6/5/18	12:30	San San Drury	2	1	Can	N	304	L_ltb/a R_g/or	D	F
+6/5/18	2:00	San San Drury	2	1	Can	N	305	L_ltb/a R_n/or	D	F
+6/5/18	2:00	San San Drury	2	1	Can	R	209	L_n/a R_r/or	D	F
+6/5/18	2:00	San San Drury	2	1	Can	R	264	L_w/a R_or/bw	J	M
+6/5/18	3:00	San San Drury	2	1	Can	R	273	L_g/a R_g/r	D	F
+6/5/18	3:30	San San Drury	2	1	Can	R	266	L_w/a R_w/bw	D	F
+6/5/18	3:30	San San Drury	2	1	Can	R	265	L_w/a R_g/bw	J	M
+6/7/18	11:15	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+6/7/18	1:15	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	D	M
+6/7/18	1:45	Chiriqui Grande	10	1	Vit	R	251	L_bk/a R_n/g	D	M
+6/12/18	9:30	Palma Real	9	2	Hyb	N	306	L_ltb/a R_bw/or	D	F
+6/12/18	2:00	Palma Real	9	2	Hyb	R	234	L_ltb/a R_or/ltb	D	F
+6/13/18	11:00	San San Drury	2	1	Can	N	307	L_ltb/a R_or/r	D	F
+6/13/18	12:00	San San Drury	2	1	Can	N	308	L_ltb/a R_or/ltb	U	G
+6/13/18	12:00	San San Drury	2	1	Can	N	309	L_y/a R_r/r	U	G
+6/13/18	3:30	San San Drury	2	1	Can	N	310	L_y/a R_n/n	U	G
+6/13/18	10:30	San San Drury	2	1	Can	R	277	L_n/a R_ltb/bk	U	G
+6/13/18	11:00	San San Drury	2	1	Can	R	301	L_ltb/a R_or/or	U	G
+6/13/18	12:00	San San Drury	2	1	Can	R	305	L_ltb/a R_n/or	D	F
+6/13/18	12:30	San San Drury	2	1	Can	R	157	L_bw/w R_n/a	D	F
+6/15/18	11:30	Chiriqui Grande	10	3	Vit	N	311	L_y/a R_g/g	D	M
+6/15/18	12:00	Chiriqui Grande	10	3	Vit	R	133	L_g/g R_r/a	D	M
+6/19/18	12:00	San San Drury	2	3	Can	N	312	L_y/a R_bk/bk	D	F
+6/19/18	12:00	San San Drury	2	3	Can	N	313	L_y/a R_w/w	D	M
+6/19/18	12:30	San San Drury	2	3	Can	N	314	L_y/a R_or/or	U	G
+6/19/18	12:30	San San Drury	2	3	Can	N	315	L_y/a R_r/n	D	M
+6/19/18	12:30	San San Drury	2	3	Can	N	316	L_y/a R_r/g	D	M
+6/19/18	12:30	San San Drury	2	3	Can	N	317	L_y/a R_r/bk	D	M
+6/19/18	1:00	San San Drury	2	3	Can	N	318	L_y/a R_r/w	D	M
+6/19/18	1:00	San San Drury	2	3	Can	N	319	L_0/0 R_a/0	D	M
+6/19/18	1:30	San San Drury	2	3	Can	N	320	L_y/a R_n/g	D	F
+6/19/18	1:30	San San Drury	2	3	Can	N	321	L_y/a R_n/bk	D	M
+6/19/18	2:30	San San Drury	2	3	Can	N	322	L_y/a R_n/w	J	M
+6/19/18	3:00	San San Drury	2	3	Can	N	323	L_y/a R_n/or	J	M
+6/19/18	3:00	San San Drury	2	3	Can	N	324	L_y/a R_g/bk	D	M
+6/19/18	3:00	San San Drury	2	3	Can	N	325	L_y/a R_g/w	D	M
+3/1/19	10:00	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+3/1/19	10:30	Chiriqui Grande	10	1	Vit	R	220	L_bw/a R_ltb/r	D	M
+3/2/19	1:15	Palma Real	9	2	Hyb	R	114	L_r/r R_g/a	D	M
+3/2/19	10:15	Palma Real	9	2	Hyb	R	119	L_g/g R_n/a	D	M
+3/2/19	1:45	Palma Real	9	2	Hyb	R	196	L_or/a R_g/w	D	M
+3/2/19	1:45	Palma Real	9	2	Hyb	N	326	L_y/a R_g/or	U	G
+3/2/19	10:00	Palma Real	9	2	Hyb	N	330	L_a/bk R_bk/bk	D	M
+3/5/19	12:00	San San Drury	2	1	Can	R	153	L_g/bw R_w/a	D	F
+3/5/19	12:00	San San Drury	2	1	Can	R	239	L_bk/a R_bk/bk	U	F
+3/5/19	1:00	San San Drury	2	1	Can	R	255	L_or/a R_bk/n	D	M
+3/5/19	10:30	San San Drury	2	1	Can	R	323	L_y/a R_n/0	D	M
+3/5/19	10:00	San San Drury	2	1	Can	N	327	L_a/r R_r/r	J	M
+3/5/19	11:30	San San Drury	2	1	Can	N	328	L_a/n R_n/n	U	G
+3/5/19	2:30	San San Drury	2	1	Can	N	329	L_a/g R_g/g	J	M
+3/7/19	3:00	Palma Real	9	2	Hyb	R	114	L_r/r R_g/a	D	M
+3/7/19	2:30	Palma Real	9	2	Hyb	R	276	L_g/a R_r/r	U	F
+3/7/19	10:30	Palma Real	9	2	Hyb	R	306	L_ltb/a R_bw/or	D	F
+3/7/19	10:00	Palma Real	9	2	Hyb	N	331	L_a/w R_w/w	D	M
+3/7/19	10:30	Palma Real	9	2	Hyb	N	332	NA	D	M
+3/7/19	10:30	Palma Real	9	2	Hyb	N	333	L_a/g R_r/n	D	M
+3/7/19	12:30	Palma Real	9	2	Hyb	N	334	L_a/w R_n/g	D	M
+3/7/19	12:30	Palma Real	9	2	Hyb	N	335	L_a/n R_r/r	J	M
+3/7/19	2:30	Palma Real	9	2	Hyb	N	336	L_a/g R_r/r	J	M
+3/7/19	2:30	Palma Real	9	2	Hyb	N	337	L_a/w R_r/r	U	F
+3/7/19	3:00	Palma Real	9	2	Hyb	N	338	L_a/r R_n/n	U	F
+3/7/19	3:00	Palma Real	9	2	Hyb	N	339	L_a/y R_r/r	J	M
+3/7/19	3:30	Palma Real	9	2	Hyb	N	340	L_a/g R_y/y	J	M
+3/8/19	10:30	San San Drury	2	3	Can	R	320	L_y/a R_n/g	U	F
+3/8/19	10:30	San San Drury	2	3	Can	R	321	L_y/a R_n/bk	D	M
+3/8/19	10:30	San San Drury	2	3	Can	N	341	L_gy/a R_0/0	D	F
+3/8/19	10:30	San San Drury	2	3	Can	N	342	L_p/a R_gy/0	D	M
+3/8/19	10:30	San San Drury	2	3	Can	N	343	L_r/0(a) R_gy/0***	U	G
+3/8/19	10:30	San San Drury	2	3	Can	N	344	L_0/0(a) R_0/0***	D	M
+3/9/19	10:30	Chiriqui Grande	10	1	Vit	R	63	L_w/0 R_bw/a	D	M
+3/12/19	1:30	San San Drury	2	1	Can	R	144	L_or/g R_bk/a	D	F
+3/12/19	2:30	San San Drury	2	1	Can	R	145	L_or/n R_bk/a	D	F
+3/12/19	3:30	San San Drury	2	1	Can	R	209	L_n/a R_r/or	D	F
+3/12/19	10:00	San San Drury	2	1	Can	R	239	L_bk/a R_bk/bk	D	F
+3/12/19	1:30	San San Drury	2	1	Can	R	329	L_a/g R_g/g	J	M
+3/12/19	1:30	San San Drury	2	1	Can	N	345	L_gy/a R_n/0	J	M
+3/12/19	1:30	San San Drury	2	1	Can	N	346	L_gy/a R_g/0	D	F
+3/12/19	2:30	San San Drury	2	1	Can	N	347	L_gy/a R_y/0	D	F
+3/12/19	2:30	San San Drury	2	1	Can	N	348	L_gy/a R_w/0	D	F
+3/13/19	2:30	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	D	M
+3/13/19	2:00	Chiriqui Grande	10	1	Vit	R	219	L_bw/a R_ltb/bw	D	M
+3/13/19	11:00	Chiriqui Grande	10	1	Vit	R	220	L_bw/a R_ltb/r	D	M
+3/13/19	11:00	Chiriqui Grande	10	1	Vit	N	349	L_gy/a R_bk/0	J	M
+3/13/19	11:00	Chiriqui Grande	10	1	Vit	N	350	L_gy/a R_p/0	U	G
+3/15/19	10:00	Palma Real	9	2	Hyb	R	121	L_r/r R_n/a	D	M
+3/15/19	10:00	Palma Real	9	2	Hyb	R	297	L_r/a R_bw/w	D	M
+3/15/19	10:00	Palma Real	9	2	Hyb	R	331	L_a/w R_w/w	D	M
+3/15/19	10:00	Palma Real	9	2	Hyb	R	333	L_a/g R_r/n	D	M
+3/15/19	10:00	Palma Real	9	2	Hyb	R	334	L_a/w R_n/g	D	M
+3/15/19	10:00	Palma Real	9	2	Hyb	N	351	L_gy/a R_w/bk	D	M
+3/15/19	10:00	Palma Real	9	2	Hyb	N	352	L_gy/a R_w/y	J	M
+3/15/19	10:00	Palma Real	9	2	Hyb	N	353	L_gy/a R_w/n	D	M
+3/16/19	11:30	San San Drury	2	3	Can	R	316	L_y/a R_r/g	D	M
+3/16/19	12:30	San San Drury	2	3	Can	R	317	L_y/a R_r/bk	D	M
+3/16/19	11:30	San San Drury	2	3	Can	N	354	L_gy/a R_w/r	D	M
+3/16/19	12:30	San San Drury	2	3	Can	N	355	L_gy/a R_w/g	D	G
+3/16/19	12:30	San San Drury	2	3	Can	N	356	L_gy/a R_bk/y	D	F
+3/16/19	12:30	San San Drury	2	3	Can	N	357	L_gy/a R_bk/n	D	F
+3/16/19	12:30	San San Drury	2	3	Can	N	358	L_gy/a R_bk/r	J	M
+3/18/19	10:30	Chiriqui Grande	10	1	Vit	R	63	L_w/0 R_bw/a	D	M
+3/18/19	10:00	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	D	M
+3/18/19	4:00	Chiriqui Grande	10	1	Vit	R	220	L_bw/a R_ltb/r	D	M
+3/18/19	10:00	Chiriqui Grande	10	1	Vit	R	230	L_ltb/0 R_or/or	D	F
+3/19/19	10:30	Palma Real	9	3	Hyb	R	122	L_ltb/ltb R_n/a	D	F
+3/19/19	10:30	Palma Real	9	3	Hyb	R	197	L_or/a R_g/n	D	M
+3/19/19	1:30	Palma Real	9	3	Hyb	R	200	L_w/a R_n/bk	D	M
+3/19/19	10:30	Palma Real	9	3	Hyb	R	331	L_a/w R_w/w	D	M
+3/19/19	10:00	Palma Real	9	3	Hyb	R	333	L_a/g R_r/n	D	M
+3/19/19	10:30	Palma Real	9	3	Hyb	N	359	L_gy/a R_bk/g	D	M
+3/19/19	10:30	Palma Real	9	3	Hyb	N	360	L_gy/a R_y/n	D	M
+3/19/19	10:30	Palma Real	9	3	Hyb	N	361	L_gy/a R_y/r	D	M
+3/19/19	10:30	Palma Real	9	3	Hyb	N	362	L_gy/a R_y/g	D	M
+3/19/19	1:30	Palma Real	9	3	Hyb	R	362	L_gy/a R_y/g	D	M
+3/19/19	2:30	Palma Real	9	3	Hyb	N	363	L_gy/a R_n/r	J	M
+3/19/19	2:30	Palma Real	9	3	Hyb	N	364	L_gy/a R_n/g	J	M
+3/19/19	2:30	Palma Real	9	3	Hyb	N	365	L_gy/a R_r/g	D	F
+3/20/19	2:00	San San Drury	2	1	Can	R	255	L_or/a R_bk/n	D	M
+3/20/19	10:30	San San Drury	2	1	Can	N	366	L_g/a R_gy/g	J	M
+3/20/19	12:30	San San Drury	2	1	Can	R	366	L_g/a R_gy/g	J	M
+3/20/19	10:30	San San Drury	2	1	Can	N	367	L_n/a R_gy/n	D	F
+3/20/19	11:00	San San Drury	2	1	Can	N	368	L_r/a R_gy/r	D	F
+3/20/19	11:30	San San Drury	2	1	Can	N	369	L_w/a R_gy/w	U	G
+3/22/19	10:30	Palma Real	9	3	Hyb	R	330	L_a/bk R_bk/bk	D	M
+3/22/19	1:30	Palma Real	9	3	Hyb	R	335	L_a/n R_r/r	J	M
+3/22/19	10:30	Palma Real	9	3	Hyb	R	338	L_a/r R_n/n	D	F
+3/22/19	2:00	Palma Real	9	3	Hyb	R	351	L_gy/a R_w/bk	D	M
+3/22/19	10:00	Palma Real	9	3	Hyb	R	353	L_gy/a R_w/n	D	M
+3/22/19	12:30	Palma Real	9	3	Hyb	N	370	L_bk/a R_gy/bk	J	M
+3/22/19	3:30	Palma Real	9	3	Hyb	N	371	L_y/a R_gy/y	D	F
+3/23/19	10:00	San San Drury	2	3	Can	R	355	L_gy/a R_w/g	D	F
+3/25/19	2:30	Chiriqui Grande	10	3	Hyb	N	372	L_bk/a R_gy/w	J	U
+3/28/19	2:00	Palma Real	9	2	Hyb	R	233	L_ltb/a R_or/r	D	F
+3/28/19	2:30	Palma Real	9	2	Hyb	R	289	L_bw/a R_bw/bk	D	F
+3/28/19	2:30	Palma Real	9	2	Hyb	R	336	L_a/g R_r/r	J	M
+3/29/19	10:00	San San Drury	2	1	Can	R	239	L_bk/a R_bk/bk	D	F
+3/29/19	3:00	San San Drury	2	1	Can	R	265	L_w/a R_g/bw	D	M
+3/29/19	1:30	San San Drury	2	1	Can	R	266	L_w/a R_w/bw	D	F
+3/29/19	3:00	San San Drury	2	1	Can	N	373	L_y/a R_gy/w	U	G
+3/29/19	3:30	San San Drury	2	1	Can	N	374	L_n/a R_gy/w	J	M
+3/30/19	1:30	Chiriqui Grande	10	1	Vit	R	69	L_or/0 R_r/a	D	M
+3/30/19	11:00	Chiriqui Grande	10	1	Vit	R	219	L_bw/a R_ltb/bw	D	M
+3/30/19	1:30	Chiriqui Grande	10	1	Vit	R	220	L_bw/a R_ltb/r	D	M
+3/30/19	9:30	Chiriqui Grande	10	1	Vit	N	375	L_r/a R_gy/w	U	G
+4/1/19	11:00	Palma Real	9	3	Hyb	R	297	L_r/a R_bw/w	D	M
+4/1/19	9:30	Palma Real	9	3	Hyb	N	376	L_n/a R_gy/y	D	M
+4/1/19	9:30	Palma Real	9	3	Hyb	N	377	L_r/a R_gy/y	D	M
+4/1/19	11:00	Palma Real	9	3	Hyb	N	378	L_g/a R_gy/y	D	M
+4/1/19	12:00	Palma Real	9	3	Hyb	N	379	L_p/a R_r/n	D	F
+4/12/19	12:00	Chiriqui Grande	10	1	Vit	R	219	L_bw/a R_ltb/bw	D	M
+4/12/19	11:00	Chiriqui Grande	10	1	Vit	R	230	L_ltb/a R_or/or	D	F
+4/13/19	11:30	San San Drury	2	1	Can	R	304	L_ltb/a R_g/or	D	F
+4/13/19	9:30	San San Drury	2	1	Can	R	307	L_ltb/a R_or/r	D	F
+4/13/19	11:00	San San Drury	2	1	Can	R	309	L_y/a R_r/r	D	F
+4/13/19	9:30	San San Drury	2	1	Can	R	367	L_n/a R_gy/n	D	F
+4/13/19	1:00	San San Drury	2	1	Can	N	380	L_p/a R_r/g	D	F
+4/16/19	11:30	San San Drury	2	3	Can	R	304	L_ltb/a R_g/or	D	F
+4/16/19	11:00	San San Drury	2	3	Can	R	316	L_y/a R_r/g	D	M
+4/16/19	10:00	San San Drury	2	3	Can	R	354	L_gy/a R_w/r	D	M
+4/16/19	10:00	San San Drury	2	3	Can	N	381	L_p/a R_r/r	J	M
+4/16/19	10:00	San San Drury	2	3	Can	N	382	L_p/a R_n/n	J	M
+4/16/19	11:30	San San Drury	2	3	Can	N	383	L_p/a R_g/g	D	F
+4/16/19	12:00	San San Drury	2	3	Can	N	384	L_p/a R_bk/bk	D	F
+4/16/19	1:00	San San Drury	2	3	Can	N	385	L_p/a R_w/w	D	F
+4/17/19	9:45	Palma Real	9	3	Hyb	R	233	L_ltb/a R_or/r	D	F
+4/17/19	11:00	Palma Real	9	3	Hyb	R	306	L_ltb/a R_bw/or	D	F
+4/17/19	4:00	Palma Real	9	3	Hyb	R	337	L_a/w R_r/r	D	F
+4/17/19	10:00	Palma Real	9	3	Hyb	R	351	L_gy/a R_w/bk	D	M
+4/17/19	11:00	Palma Real	9	3	Hyb	R	351	L_gy/a R_w/bk	D	M
+4/17/19	10:00	Palma Real	9	3	Hyb	R	376	L_n/a R_gy/y	D	M
+4/17/19	10:00	Palma Real	9	3	Hyb	R	377	L_r/a R_gy/y	D	M
+4/17/19	10:00	Palma Real	9	3	Hyb	R	378	L_g/a R_gy/y	D	M
+4/17/19	10:00	Palma Real	9	3	Hyb	N	386	L_p/a R_y/y	D	F
+4/17/19	11:00	Palma Real	9	3	Hyb	N	387	L_p/a R_gy/gy	D	F
+4/17/19	2:30	Palma Real	9	3	Hyb	N	388	L_p/a R_r/n	D	M
+4/17/19	2:30	Palma Real	9	3	Hyb	N	389	L_p/a R_r/g	D	M
+4/18/19	2:30	Chiriqui Grande	10	3	Vit	R	224	L_r/a R_bk/w	D	M
+4/18/19	2:30	Chiriqui Grande	10	3	Vit	R	269	L_w/a R_r/bw	D	M
+4/18/19	2:30	Chiriqui Grande	10	3	Vit	R	372	L_bk/a R_gy/w	J	U
+4/19/19	10:00	San San Drury	2	1	Can	R	239	L_bk/a R_bk/bk	D	F
+4/19/19	10:30	San San Drury	2	1	Can	R	265	L_w/a R_g/bw	D	M
+4/19/19	9:30	San San Drury	2	1	Can	R	266	L_w/a R_w/bw	D	F
+4/19/19	10:30	San San Drury	2	1	Can	R	327	L_a/r R_r/r	J	M
+4/19/19	10:30	San San Drury	2	1	Can	R	345	L_gy/a R_n/0	J	M
+4/19/19	1:30	San San Drury	2	1	Can	N	391	L_w/r R_p/a	U	G
+4/19/19	2:30	San San Drury	2	1	Can	N	392	L_bk/r R_p/a	D	F
+4/20/19	2:30	Palma Real	9	2	Hyb	R	283	L_n/a R_ltb/ltb	D	F
+5/2/19	2:30	Chiriqui Grande	10	1	Vit	R	134	L_bw/bw R_r/a	D	F
+5/2/19	2:30	Chiriqui Grande	10	1	Vit	R	220	L_bw/a R_ltb/r	D	M
+5/4/19	10:30	San San Drury	2	1	Can	R	144	L_or/g R_bk/a	D	F
+5/4/19	1:30	San San Drury	2	1	Can	R	273	L_g/a R_g/r	D	F
+5/4/19	10:00	San San Drury	2	1	Can	R	328	L_a/n R_n/n	D	F
+5/4/19	2:30	San San Drury	2	1	Can	R	345	L_gy/a R_n/0	J	M
+5/4/19	10:30	San San Drury	2	1	Can	N	393	L_y/r R_p/a	U	G
+5/14/19	12:30	Palma Real	9	2	Hyb	R	231	L_ltb/a R_or/g	D	M
+5/14/19	3:00	Palma Real	9	2	Hyb	R	232	L_ltb/a R_or/n	D	M
+5/14/19	1:00	Palma Real	9	2	Hyb	R	236	L_y/a R_g/or	D	M
+5/14/19	1:00	Palma Real	9	2	Hyb	R	271	L_g/a R_or/r	D	F
+5/14/19	11:30	Palma Real	9	2	Hyb	R	330	L_a/bk R_bk/bk	D	M
+5/14/19	12:00	Palma Real	9	2	Hyb	R	336	L_a/g R_r/r	J	M
+5/14/19	9:15	Palma Real	9	2	Hyb	N	394	L_0/r R_0/a	B	U
+5/14/19	9:15	Palma Real	9	2	Hyb	N	395	L_0/n R_0/a	B	U
+5/15/19	9:30	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+5/16/19	10:00	San San Drury	2	3	Can	R	329	L_a/g R_g/g	J	M
+5/16/19	12:30	San San Drury	2	3	Can	R	357	L_gy /a R_bk/n	D	F
+5/16/19	10:00	San San Drury	2	3	Can	N	396	L_n/r R_p/a	D	M
+5/16/19	11:00	San San Drury	2	3	Can	N	397	L_g/p R_g/a	D	F
+5/16/19	12:00	San San Drury	2	3	Can	N	398	L_n/p R_n/a	D	M
+5/17/19	2:00	Palma Real	9	3	Hyb	R	116	L_bk/bk R_n/a	D	F
+5/17/19	10:00	Palma Real	9	3	Hyb	R	352	L_gy/a R_w/y	J	M
+5/17/19	9:20	Palma Real	9	3	Hyb	N	399	L_y/p R_y/a	J	M
+5/17/19	12:30	Palma Real	9	3	Hyb	N	400	L_w/p R_w/a	D	F
+5/17/19	12:00	Palma Real	9	3	Hyb	N	401	L_r/p R_r/a	D	M
+5/17/19	2:00	Palma Real	9	3	Hyb	N	402	L_bk/p R_bk/a	D	F
+5/17/19	2:00	Palma Real	9	3	Hyb	N	403	L_bk/w R_n/a	D	F
+5/17/19	2:00	Palma Real	9	3	Hyb	N	404	L_bk/y R_n/a	D	M
+5/17/19	2:00	Palma Real	9	3	Hyb	N	405	L_bk/g R_n/a	D	M
+5/17/19	2:00	Palma Real	9	3	Hyb	N	406	L_bk/r R_n/a	D	M
+5/18/19	10:30	Chiriqui Grande	10	3	Vit	N	407	L_bk/p R_n/a	J	M
+5/20/19	11:00	San San Drury	2	1	Can	R	153	L_g/bw R_w/a	D	F
+5/20/19	10:30	San San Drury	2	1	Can	R	309	L_y/a R_r/r	D	F
+5/21/19	1:00	Palma Real	9	3	Hyb	R	116	L_bk/bk R_n/a	D	F
+5/21/19	10:00	Palma Real	9	3	Hyb	N	408	L_p/r R_g/a	D	F
+5/21/19	11:00	Palma Real	9	3	Hyb	N	409	L_a/0 R_0/0	D	M
+5/21/19	12:30	Palma Real	9	3	Hyb	N	410	L_p/n R_g/a	D	F
+5/21/19	12:30	Palma Real	9	3	Hyb	N	411	L_p/w R_g/a	D	M
+5/24/19	10:00	San San Drury	2	3	Can	R	321	L_y/a R_n/bk	D	M
+5/24/19	10:30	San San Drury	2	3	Can	N	412	L_p/bk R_g/a	D	M
+5/27/19	11:45	San San Drury	2	1	Can	R	209	L_n/a R_r/or	D	F
+5/27/19	12:15	San San Drury	2	1	Can	N	413	L_p/y R_g/a	D	F
+5/28/19	1:00	Chiriqui Grande	10	3	Vit	R	176	L_or/0 R_a/y	D	M
+5/28/19	1:30	Chiriqui Grande	10	3	Vit	R	217	L_bw/a R_ltb/g	D	M
+5/28/19	12:00	Chiriqui Grande	10	3	Vit	R	261	L_or/a R_r/n	D	M
+5/29/19	12:00	Palma Real	9	3	Hyb	R	330	L_a/bk R_bk/bk	D	M
+5/29/19	10:00	Palma Real	9	3	Hyb	R	389	L_p/a R_r/g	D	M
+5/29/19	9:15	Palma Real	9	3	Hyb	N	414	L_p/gy R_g/a	D	M
+5/29/19	10:00	Palma Real	9	3	Hyb	N	415	L_p/bk R_r/a	D	M
+5/29/19	11:00	Palma Real	9	3	Hyb	N	416	L_p/w R_r/a	D	M
+5/29/19	1:30	Palma Real	9	3	Hyb	N	417	L_p/y R_r/a	D	F
+5/29/19	1:30	Palma Real	9	3	Hyb	N	418	L_p/g R_r/a	D	M
+5/29/19	2:30	Palma Real	9	3	Hyb	N	419	L_p/n R_r/a	D	F
+5/29/19	2:30	Palma Real	9	3	Hyb	N	420	L_p/w R_bk/a	D	F
+5/29/19	2:30	Palma Real	9	3	Hyb	N	421	L_p/y R_bk/a	D	M
+5/30/19	1:00	San San Drury	2	3	Can	R	312	L_y/a R_bk/bk	D	F
+5/30/19	2:00	San San Drury	2	3	Can	R	329	L_a/g R_g/g	J	M
+5/30/19	12:00	San San Drury	2	3	Can	R	355	L_gy/a R_w/g	D	F
+5/30/19	2:00	San San Drury	2	3	Can	R	357	L_gy/a R_bk/n	D	F
+5/30/19	10:00	San San Drury	2	3	Can	N	422	L_p/r R_bk/a	D	F
+5/31/19	11:00	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+6/1/19	1:30	Palma Real	9	2	Hyb	R	276	L_g/a R_r/r	D	F
+6/3/19	1:30	San San Drury	2	1	Can	R	239	L_bk/a R_bk/bk	D	F
+6/3/19	1:30	San San Drury	2	1	Can	R	255	L_or/a R_bk/n	D	M
+6/3/19	10:00	San San Drury	2	1	Can	R	327	L_a/r R_r/r	J	M
+6/3/19	10:00	San San Drury	2	1	Can	N	423	L_p/n R_bk/a	J	M
+6/5/19	2:30	Palma Real	9	3	Hyb	R	119	L_g/g R_n/a	D	M
+6/5/19	3:30	Palma Real	9	3	Hyb	R	122	L_ltb/ltb R_n/a	D	F
+6/5/19	12:30	Palma Real	9	3	Hyb	R	297	L_r/a R_bw/w	D	M
+6/5/19	11:30	Palma Real	9	3	Hyb	R	306	L_ltb/a R_bw/or	D	F
+6/5/19	10:30	Palma Real	9	3	Hyb	R	330	L_bk/a R_bk/bk	D	M
+6/5/19	11:00	Palma Real	9	3	Hyb	R	331	L_a/w R_w/w	D	M
+6/5/19	11:30	Palma Real	9	3	Hyb	R	334	L_a/w R_n/g	D	M
+6/5/19	11:30	Palma Real	9	3	Hyb	R	387	L_p/a R_gy/gy	D	F
+6/5/19	10:30	Palma Real	9	3	Hyb	R	401	L_r/p R_r/a	D	M
+6/5/19	9:15	Palma Real	9	3	Hyb	N	424	L_p/g R_bk/a	D	M
+6/5/19	10:30	Palma Real	9	3	Hyb	N	425	L_a/w R_bk/a	J	U
+6/5/19	10:30	Palma Real	9	3	Hyb	N	426	L_a/y R_bk/w	D	M
+6/5/19	12:30	Palma Real	9	3	Hyb	N	427	L_a/r R_bk/w	D	M
+6/5/19	1:30	Palma Real	9	3	Hyb	N	428	L_a/n R_bk/w	D	F
+6/5/19	3:30	Palma Real	9	3	Hyb	N	429	L_a/gy R_bk/w	J	M
+6/7/19	12:30	Chiriqui Grande	10	3	Vit	R	108	L_r/r R_w/a	D	M
+6/7/19	2:00	Chiriqui Grande	10	3	Vit	R	262	L_or/a R_ltb/n	D	F
+6/7/19	10:00	Chiriqui Grande	10	3	Vit	R	372	L_bk/a R_gy/w	D	F
+6/7/19	10:30	Chiriqui Grande	10	3	Vit	N	454	L_r/n R_a/gy	U	G
+6/10/19	10:30	Palma Real	9	2	Hyb	R	113	L_bw/bw R_g/a	D	M
+6/10/19	11:00	Palma Real	9	2	Hyb	R	232	L_ltb/a R_or/n	D	M
+6/10/19	9:30	Palma Real	9	2	Hyb	R	289	L_bw/a R_bw/bk	D	F
+6/10/19	11:00	Palma Real	9	2	Hyb	N	455	L_r/g R_a/gy	D	F
+6/11/19	12:30	San San Drury	2	3	Can	R	313	L_y/a R_w/w	D	M
+6/11/19	12:00	San San Drury	2	3	Can	R	321	L_y/a R_n/bk	D	M
+6/11/19	10:00	San San Drury	2	3	Can	R	322	L_y/a R_n/w	D	M
+6/11/19	10:00	San San Drury	2	3	Can	R	356	L_gy/a R_y/bk	D	F
+6/11/19	1:30	San San Drury	2	3	Can	N	456	L_n/g R_a/gy	J	M
+6/12/19	10:15	Chiriqui Grande	10	1	Vit	R	66	L_r/0 R_bw/a	D	M
+6/12/19	11:15	Chiriqui Grande	10	1	Vit	R	279	L_n/a R_g/ltb	D	M
+6/17/19	11:00	Chiriqui Grande	10	1	Vit	R	134	L_bw/bw R_r/a	D	F
+6/19/19	12:45	Palma Real	9	3	Hyb	R	120	L_bw/bw R_n/a	D	F
+6/19/19	2:30	Palma Real	9	3	Hyb	R	199	L_or/a R_g/r	D	F
+6/19/19	10:15	Palma Real	9	3	Hyb	R	271	L_g/a R_or/r	D	F
+6/19/19	1:45	Palma Real	9	3	Hyb	R	288	L_bw/a R_n/bk	D	M
+6/19/19	3:00	Palma Real	9	3	Hyb	R	362	L_gy/a R_y/g	D	M
+6/19/19	11:45	Palma Real	9	3	Hyb	R	371	L_y/a R_gy/y	D	F
+6/19/19	12:45	Palma Real	9	3	Hyb	N	463	L_r/n R_gy/a	J	M
+6/19/19	1:15	Palma Real	9	3	Hyb	N	464	L_a/gy R_n/g	D	F
+6/19/19	3:00	Palma Real	9	3	Hyb	N	465	L_g/w R_a/gy	D	F
+7/2/19	11:00	San San Drury	2	1	Can	R	144	L_or/g R_bk/a	D	F
+7/2/19	1:30	San San Drury	2	1	Can	R	180	L_bk/r R_y/a	D	F
+7/2/19	10:00	San San Drury	2	1	Can	R	266	L_w/a L_w/bw	D	F
+7/2/19	10:00	San San Drury	2	1	Can	R	317	L_y/a R_r/bk	D	M
+7/2/19	10:00	San San Drury	2	1	Can	R	328	L_a/n R_n/n	D	F
+7/2/19	9:30	San San Drury	2	1	Can	R	387	L_g/p R_g/a	D	F
+7/2/19	10:00	San San Drury	2	1	Can	N	484	L_r/0 R_a/gy	J	M
+7/2/19	10:00	San San Drury	2	1	Can	N	485	L_n/0 R_a/gy	U	G
+7/2/19	1:30	San San Drury	2	1	Can	N	486	L_n/g R_a/r	U	G
+7/2/19	2:00	San San Drury	2	1	Can	N	487	L_g/g R_a/n	U	G
+7/3/19	3:00	Palma Real	9	3	Hyb	R	121	L_r/r R_n/a	D	M
+7/3/19	2:30	Palma Real	9	3	Hyb	R	418	L_p/w R_r/a	D	M
+7/3/19	10:00	Palma Real	9	3	Hyb	N	488	L_r/r R_a/n	D	F
+7/3/19	10:00	Palma Real	9	3	Hyb	N	489	L_n/w R_a/y	D	M
+7/3/19	10:00	Palma Real	9	3	Hyb	N	490	L_w/g R_a/r	D	M
+7/3/19	11:00	Palma Real	9	3	Hyb	N	491	L_w/g R_a/g	D	F
+7/3/19	11:00	Palma Real	9	3	Hyb	N	492	L_g/n R_a/w	D	F
+7/3/19	2:30	Palma Real	9	3	Hyb	N	493	L_n/n R_a/bk	D	F
+7/3/19	3:00	Palma Real	9	3	Hyb	N	494	L_y/y R_a/y	U	G
+7/5/19	2:00	San San Drury	2	3	Can	R	317	L_y/a R_r/bk	D	M
+7/5/19	3:00	San San Drury	2	3	Can	R	320	L_y/a R_n/g	D	F
+7/5/19	1:30	San San Drury	2	3	Can	R	322	L_y/a R_n/w	D	M
+7/5/19	2:00	San San Drury	2	3	Can	R	324	L_y/a R_g/bk	D	M
+7/5/19	2:30	San San Drury	2	3	Can	R	374	L_n/a R_gy/w	J	M
+7/5/19	10:00	San San Drury	2	3	Can	R	396	L_p/a R_n/r	D	M
+7/5/19	9:30	San San Drury	2	3	Can	N	504	L_w/w R_a/y	U	G
+7/5/19	10:00	San San Drury	2	3	Can	N	505	L_w/n R_a/y	J	U
+7/5/19	10:30	San San Drury	2	3	Can	N	506	L_w/g R_a/y	D	F
+7/6/19	3:00	Palma Real	9	2	Hyb	R	121	L_r/r R_n/a	D	M
+7/6/19	1:30	Palma Real	9	2	Hyb	N	507	L_r/w R_a/g	D	F
