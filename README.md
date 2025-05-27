@@ -1,6 +1,7 @@
 # _Manacus_ hybrid zone fitness manuscript repository
 
-> Long _et al._ (2025) **Reduced offspring viability is associated with long-term stability of a narrow avian hybrid zone**. In Prep.
+> Long _et al._ (2025) **Reduced offspring viability is associated with long-term stability of a narrow avian hybrid zone**. In Review. Preprint: bioRxiv 2025.05.22.655562; doi: [https://doi.org/10.1101/2025.05.22.655562](https://www.biorxiv.org/content/10.1101/2025.05.22.655562v1)
+
 
 This repository contains code/scripts used in the analysis of hybrid fitness for adult apparent survival and hatching success in the _Manacus_ hybrid zone of western Panama.
 
